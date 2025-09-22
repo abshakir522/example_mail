@@ -1,0 +1,5 @@
+name: 'Example mail'
+type: module
+description: 'Testing email functionality'
+package: Custom
+core_version_requirement: ^10 || ^11

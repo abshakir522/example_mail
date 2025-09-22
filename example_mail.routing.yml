@@ -1,0 +1,7 @@
+example_mail.example_mail:
+  path: '/admin/example-mail'
+  defaults:
+    _title: 'Example Mail'
+    _form: 'Drupal\example_mail\Form\ExampleMailForm'
+  requirements:
+    _permission: 'access content'
