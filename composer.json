@@ -1,0 +1,11 @@
+{
+    "name": "abshakir522/example_mail",
+    "type": "drupal-module",
+    "description": "Provides an example mail implementation.",
+    "homepage": "https://github.com/abshakir522/example_mail",
+    "license": "GPL-2.0-or-later",
+    "require": {
+        "php": "^7.3 || ^8.0",
+        "drupal/core": "^9.2 || ^10"
+    }
+}
